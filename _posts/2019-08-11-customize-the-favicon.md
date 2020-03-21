@@ -1,6 +1,6 @@
 ---
 title: "Customize the Favicon"
-date: 2019-08-11 00:34:00 +0800
+date: 2019-08-11 00:34:00 +0900
 categories: [Blogging, Tutorial]
 tags: [favicon]
 toc: false
@@ -20,7 +20,7 @@ Download the generated package, unzip and delete the following two from the extr
 
 - browserconfig.xml
 - manifest.json
- 
+
 Now, copy the rest image files (`.PNG` and `.ICO`) to cover the original one in folder `assets/img/favicons/`.
 
 Lastly, don't forget to rebuild your site so that the icon becomes your custom edition.
