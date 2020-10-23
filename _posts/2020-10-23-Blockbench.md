@@ -1,6 +1,6 @@
 ---
-title: "마인크래프트 모델링 #2"
-date: 2020-10-22 17:35:00 +0900
+title: "Blockbench - 0강. 모델링 개요"
+date: 2020-10-23 11:46:00 +0900
 categories: [Modeling, Practice]
 tags: [modeling]
 toc: false
